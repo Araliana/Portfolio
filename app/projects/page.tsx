@@ -46,7 +46,7 @@ export default function Projects() {
                 </li>
                 <li>
                   <Link href="/projects" className="active">
-                    Project
+                    Projects
                   </Link>
                 </li>
               </ul>
