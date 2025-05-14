@@ -42,12 +42,12 @@ export default function Projects() {
             <nav id="navmenu" className="navmenu">
               <ul>
                 <li>
-                  <a href="/">Home</a>
+                  <Link href="/">Home</Link>
                 </li>
                 <li>
-                  <a href="/projects" className="active">
+                  <Link href="/projects" className="active">
                     Project
-                  </a>
+                  </Link>
                 </li>
               </ul>
               <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
