@@ -36,7 +36,7 @@ export default function Home() {
                 </Link>
               </li>
               <li>
-                <Link href="/projects">Project</Link>
+                <Link href="/projects">Projects</Link>
               </li>
             </ul>
             <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
