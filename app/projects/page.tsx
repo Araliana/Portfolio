@@ -32,12 +32,12 @@ export default function Projects() {
           className="header d-flex align-items-center light-background sticky-top"
         >
           <div className="container-fluid position-relative d-flex align-items-center justify-content-between">
-            <a
+            <Link
               href="/"
               className="logo d-flex align-items-center me-auto me-xl-0"
             >
               <h1 className="sitename">Sharren</h1>
-            </a>
+            </Link>
 
             <nav id="navmenu" className="navmenu">
               <ul>
